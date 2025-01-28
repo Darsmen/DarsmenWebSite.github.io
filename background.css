@@ -3,7 +3,7 @@ body {
   height: 100vh;
   background-color: #000;
   background-image: radial-gradient(circle at top right, rgba(157, 0, 255, 0.13),       transparent),
-    radial-gradient(circle at 20% 80%, rgba(0, 242, 255, 0.13), transparent)
+    radial-gradient(circle at 20% 80%, rgba(0, 119, 255, 0.13), transparent)
 }
 canvas {
   position: fixed;

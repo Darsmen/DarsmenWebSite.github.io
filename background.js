@@ -3,7 +3,7 @@
  *  .  .   change these values:   .  *
    .      * .        .          * .       */
 const STAR_COLOR = '#9900ff';
-const STAR_SIZE = 1;
+const STAR_SIZE = 2;
 const STAR_MIN_SCALE = 0.2;
 const OVERFLOW_THRESHOLD = 0;
 const STAR_COUNT = ( window.innerWidth + window.innerHeight ) / 4;
