@@ -233,19 +233,15 @@ main {
   font-family: "Font_My_Icon_Font";
   src: url("assets/MyIconFont.woff2") format('woff2'),
        url("assets/MyIconFont.woff") format('woff'),
-       url("assets/MyIconFont.ttf") format('truetype');
-    font-weight: 400;
-    font-style: normal;
 }
 
 .MyIconFont-shikimory::before{
   font-family: 'Font_My_Icon_Font';
 
   display: inline-block;
-  font-size: 90px;
+  font-size: 60px;
   font-weight: 400;
   font-style: normal;
-  font-variant: normal;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
 
