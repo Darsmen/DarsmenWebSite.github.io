@@ -232,7 +232,6 @@ main {
 @font-face {
   font-family: "Font_My_Icon_Font";
   src: url("assets/FontAwesome5Brands-Regular.woff2") format('woff2'),
-       /*url("assets/MyIconFont.woff") format('woff'),*/
 }
 
 .MyIconFont-shikimory::before{
